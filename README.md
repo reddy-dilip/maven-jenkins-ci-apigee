@@ -60,4 +60,4 @@ Read the [Jenkins build pipeline](./docs-src/jenkins-pipeline.md) to understand 
 pipeline is configured for this demonstration.
 
 Read the [setup instructions](./docs-src/setup.md) for step-by-step instructions on
-how to setup the whole CI process using the sample proxy and Dockerfile.
+how to setup the whole CI process using the sample proxy and Dockerfile..
